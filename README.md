@@ -1,4 +1,3 @@
-# Implementing ASP.NET Core CRUD Operation with CQRS and MediatR Patterns
 # What is CQRS Pattern
 CQRS stands for Command Query Responsibility Segregation, this pattern states to separate read and write operations for a data source. Each method should either be a Command or a Query but not both. In CQRS “Commands” is known for database saves and “Queries” is known for reading from the database.
 
